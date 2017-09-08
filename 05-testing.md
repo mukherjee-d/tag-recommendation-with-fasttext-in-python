@@ -1,5 +1,5 @@
 # Testing
-With our model buuilt in the last step, we need to verify it against a test set and measure the values of precision@k and recall@k to get an idea of how well our model is performing. While there are many ways to perform validation of your model, this tutorial will focus on k-fold cross-validation. Another method that is definitely suggested to look into is bootstrapping.
+With our model built in the last step, we need to verify it against a test set and measure the values of precision@k and recall@k to get an idea of how well our model is performing. While there are many ways to perform validation of your model, this tutorial will focus on k-fold cross-validation. Another method that is definitely suggested to look into is bootstrapping.
 
 ## K-Fold Cross Validation
 With K-fold cross validation, you divide your dataset into k folds. Over k iterations, (k-1) folds of the data are used for training and the kth fold is used for testing. This ensures that all of our data is used (k-1) times for building the model and at least one time for validating the built model. Doing so makes us certain that our test set is representative of our true data.
