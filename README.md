@@ -17,7 +17,8 @@ This tutorial is aimed at anybody who has little to moderate experience with Pyt
 
 ## Steps
 * [Prerequisites](01-prerequisites.md)
-* [Installation](https://github.com/kubernetes/kubernetes) 
-* [Pre-processing the data](https://github.com/kubernetes/kubernetes) 
-* [Testing](https://github.com/kubernetes/kubernetes) 
-* [Deployment](https://github.com/kubernetes/kubernetes) 
+* [Installation](02-installation.md) 
+* [Pre-processing the data](03-preprocessing.md)
+* [Training](04-training.md)
+* [Testing](05-testing.md) 
+* [Deployment](06-deployment.md) 
