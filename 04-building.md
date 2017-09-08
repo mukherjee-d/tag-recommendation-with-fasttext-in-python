@@ -1,5 +1,5 @@
 # Testing
-With our test set ready, we move on to the testing phase.
+With our training set ready, we move on to building the model and test.
 
 ## Building the model
 ```
