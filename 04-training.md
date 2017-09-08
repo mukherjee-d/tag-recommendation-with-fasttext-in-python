@@ -4,7 +4,6 @@ With our training set ready, we move on to training the model.
 ## Building the model
 The command used to build the supervised model using fasttext is-
 ```
-classifier = fasttext.supervised('training_set.txt', 'test_model', lr = 0.075, epoch = 10000, word_ngrams = 2, neg = 10, bucket = 10000, thread= 32)
 fasttext.supervised(params)
 ```
 The following paramters are required-
