@@ -1,6 +1,6 @@
 # Prerequisites 
 
-Make sure your system is running a version of Python that is 2.6 or newer. While not necessary, it is useful to have pip installed to ensure easy installation of all the packages that are needed.
+Make sure your system is running a version of Python that is 2.7 or newer. While not necessary, it is useful to have pip installed to ensure easy installation of all the packages that are needed.
 
 The most important library that needs to be downloaded-
 * [fasttext](https://pypi.python.org/pypi/fasttext/0.8.3) 0.8.3
